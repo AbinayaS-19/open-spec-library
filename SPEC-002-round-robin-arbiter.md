@@ -7,7 +7,7 @@
 | Version | 0.1 (Draft) |
 | Author | Abinaya Senthil |
 | Date | 2026-10-10 |
-| Status | Draft for review |
+| Status | Done |
 
 ## 1. Overview
 
