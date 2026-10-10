@@ -1,6 +1,6 @@
 # Open Spec Library
 
-Hi, I am Abi. I am a design verification engineer, and I started this library to fix a small but real problem.
+Hi, I am Abinaya Senthil. I am a design verification engineer, and I started this library to fix a small but real problem.
 
 ## What this is
 
